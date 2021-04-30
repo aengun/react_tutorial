@@ -1,13 +1,9 @@
-import React from 'react';
-import Hello from './Hello';
+import React from "react";
+import InputSample from "./InputSample";
 
 function App() {
   return (
-    <div className="App">
-      <Hello/>
-      <Hello/>
-      <Hello/>
-    </div>
+    <InputSample/>
   );
 }
 
